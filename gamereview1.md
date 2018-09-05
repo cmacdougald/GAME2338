@@ -3,6 +3,8 @@
 ## Details
 Something interesting about the game.
 
+### Sub Heading
+
 ## Summary
 This game is great and here is why.
 
