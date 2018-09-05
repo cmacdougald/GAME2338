@@ -1,12 +1,11 @@
 # Game Review
 
 ## Details
-Something interesting about the game.
-
-### Sub Heading
+### Game Title
+### Rating
 
 ## Summary
-This game is great and here is why.
+This game is about...
 
 ## Final Thoughts
 I like this about the game but didn't like this particular feature.
