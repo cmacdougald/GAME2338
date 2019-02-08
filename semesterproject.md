@@ -1,14 +1,16 @@
+# Overview
+
 You will work with 3-4 other students on this assignment. This group project consists of 5 parts.
 
 Select a free online game that can be accessed by anyone without registration. This games need to contain more than two or three functions.
 
-# Part One: Test Project Kick-Off
+# Test Project Kick-Off
 
 You and your team have been tasked with validating the functionality of your selected game. Assign some basic tasks to each member of the group.
 
 Develop a project schedule to include the following tasks at a minimum
 
-Game Selection Start Date/End Date - NLT October 25, 2017 Person(s) Assigned
+Game Selection Start Date/End Date - NLT Person(s) Assigned
 
 Develop Schedule Start Date/End Date - NLT October 25, 2017 Person(s) Assigned
 
