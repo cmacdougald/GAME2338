@@ -8,14 +8,27 @@
 
 #### Number of Test performed
 
+(Paragraph)
+
 #### Number of Defects
+
+(Paragraph)
 
 #### Requirements Status
 
+(Paragraph)
+
 ### Test Environment
+
+(Paragraphs)
+
 #### Hardware Configuration
 
+(Paragraph)
+
 ### Recommendation
+
+(Paragraphs)
 
 ## SECTION 2: DETAILED TEST RESULTS
 
