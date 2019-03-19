@@ -25,25 +25,25 @@ Develop a project schedule to include the following tasks at a minimum:
 
 Use the test plan outline to develop a test plan for your selected game. Your test plan should include schedule testing events such as when the Test Plan, Test Cases and Test Report will be completed and scheduled testing dates.
 
-(testplanoutline.md)[testplanoutline.md]
+[testplanoutline.md](testplanoutline.md)
 
 # Part Three: Test Cases
 
 After completing your test plan, use the test case template and write 8-10 test cases to validate the functionality of your selected game. You can write more test cases on your game.
 
-(testcaseoutline.md)[testcaseoutline.md]
+[testcaseoutline.md](testcaseoutline.md)
 
 # Part Four: Test Report
 
 On scheduled testing dates, run your written test cases. Use the Test Report outline to produce a test report for your selected game. Test Report should include any defects found during testing.
 
-(testreportoutline.md)[testreportoutline.md]
+[testreportoutline.md](testreportoutline.md)
 
 # Part Five: Status Reports
 
 Each group will be required to create a project test schedule and provide status reports on your project by the dates listed above.
 
-(statusreportoutline.md)[statusreportoutline.md]
+[statusreportoutline.md](statusreportoutline.md)
 
 > Status Report 1 should include what game was selected, team assignments and a testing schedule (your team's plan) for all testing activities. Optional: Send me a draft test plan for review with your team's status report.
 
