@@ -5,6 +5,7 @@
 ### Overview
 
 (Paragraph)
+* High level overall view of the test case results. Think upper management wants to know how the test plan and test cases ran.
 
 #### Number of Test performed
 
@@ -30,6 +31,8 @@
 ### Recommendation
 
 (Paragraphs)
+* Very technical summary of the results and where things can be improved or what course of action the game should take as a result of the testing.
+
 
 ## SECTION 2: DETAILED TEST RESULTS
 
