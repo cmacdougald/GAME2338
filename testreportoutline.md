@@ -17,6 +17,7 @@
 #### Requirements Status
 
 (Paragraph)
+* According to your test plan requirements did your test case runs meet your listed requirements.
 
 ### Test Environment
 
