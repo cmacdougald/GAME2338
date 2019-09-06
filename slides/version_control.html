@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Awesome Presentation</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <style type="text/css">
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body {
+        font-family: 'Droid Serif'; 
+        background: #272822;
+        color: #777872;
+        text-shadow: 0 0 20px #333;
+      }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: normal;
+        color: #f3f3f3;
+      }
+      li {
+        color: #f3f3f3;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
+# Version Control
+## The evolution of GIT...
+
+---
+
+## In the beginning...
+
+* Sneakernet
+* Here hold my tape drive
+
+---
+
+## Historically
+
+* Source Code Control System
+ * 1972 - 2006
+ * Bell Labs
+ * Interleaved deltas
+ * Good for text, bad for binary
+* Revision Control System
+ * 1982 - ?
+ * diff utility based
+
+---
+
+## Historically
+
+* Concurrent Versions System (CVS)
+ * 1986 - 2008
+ * Series of scripts originally using RCS
+ * Takes a lot of flack for newer design philosophy changes
+* Subversion (SVN)
+ * 2000 - ?
+ * rename issue
+
+---
+
+## What changed?
+
+* Distributed vs Centralized
+ * peer to peer
+ * working copies
+ * communicate only when sharing changes
+ * multiple backups
+* Proprietary Systems
+ * use license changed
+
+---
+
+## GIT
+
+* 2005 - ?
+ * Linus Torvalds
+* full working directory
+* used for the linux kernel for patching
+* safeguards corruption (accidental or malicious)
+* multiple merge strategies
+ * resolve, recursive, octopus
+* data structures
+ * blob, tree (directory), commit (links tree objects into history), tag (container of metadata and reference of another object)
+
+---
+
+## GIT Concepts and Practices
+
+* commit early and often
+* copy/move a file in a different commit from any file changes
+* name your stashes
+ * git stash save (name)
+* don’t commit anything that can be regenerated from other things that were committed
+
+---
+
+## GIT Commands
+
+* checkout
+ * git clone ssh://user@host/path/to/repo.git
+  * creates shortcut called origin
+* status
+ * git status
+* adding
+ * git add <filename/>
+* commit changes (local)
+ * git commit
+
+---
+
+## GIT Commands
+
+* commit changes (remote)
+ * git push origin master
+  * origin - remote connection to the central repo
+  * master - branch
+* pull updates (conflicts)
+ * git pull --rebase origin master
+* resolve conflicts
+ * git rebase --continue
+  * don’t panic
+   * git rebase --abort
+ * git push origin master
+
+---
+
+## GIT Commands
+
+* Stashing
+ * Saving your work without commit
+ * git stash 
+ * git stash list
+ * git stash apply
+  * apply the previous stash to current
+* branches
+ * git branch <branchname/>
+ * git checkout <branchname/>
+* merging branches
+ * git checkout master
+ * git merge <branchname/>
+
+---
+
+## GIT Maintenance
+
+* git log
+ * see pointers and other information
+* git fsck
+ * Validates git repo
+* git gc
+ * Removes dangling objects
+ 
+---
+
+## GIT example
+
+* git checkout -b proj-404
+* git status
+* git add newclass.py
+ * code changes
+* git commit
+ * rinse and repeat
+* git push -u origin proj-404
+ * code changes
+* git push
+ * code changes
+---
+## GIT example
+
+* git checkout master
+ * checkout master branch
+* git pull
+ * pull changes
+* git pull origin proj-404
+ * pull changes on this branch
+* git push
+ * pushes changes back to origin master
+
+---
+## Resources
+
+(https://git-scm.com/doc)
+(https://en.wikipedia.org/wiki/Merge_%28version_control%29#Three-way_merge)
+(https://sethrobertson.github.io/GitBestPractices/)
+(https://git-scm.com/book/en/v1/Git-Tools-Stashing)
+(https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+
+## Workflows
+
+(http://reinh.com/blog/2009/03/02/a-git-workflow-for-agile-teams.html)
+(https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow)
+
+
+
+
+    </textarea>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+      var slideshow = remark.create();
+    </script>
+  </body>
+</html>
