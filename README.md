@@ -7,4 +7,4 @@
   - [Version Control](slides/version_control.html)
   - [Types of Testing](slides/types_of_testing.html)
 - Labs
-  - [Quality](labs/quality_labs.html)
+  - [Quality](labs/quality_games.html)
