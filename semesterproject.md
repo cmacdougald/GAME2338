@@ -21,6 +21,10 @@ Develop a project schedule to include the following tasks at a minimum:
 | Execute Test Cases | | 2019 11 21 | | 
 | Create Test Report | | 2019 12 03 | | 
 
+# Part One: Game Selection
+
+Using a criteria determined by the team, pick a common game you will all play and test using methods taught in the course. Turn in a short paper describing the game and why your team choose this game. Recommendation is to use the game review template to start and modify accordingly.
+
 # Part Two: Test Plan
 
 Use the test plan outline to develop a test plan for your selected game. Your test plan should include schedule testing events such as when the Test Plan, Test Cases and Test Report will be completed and scheduled testing dates.
