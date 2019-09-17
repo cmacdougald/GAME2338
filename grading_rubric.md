@@ -5,24 +5,24 @@
 The following scale is used for grading the reviews, each section encompasses 10 points each.
 
 * Overall Impression
-  Addresses main concept
+ - Addresses main concept
 * Argument
-  Reader knows exactly what the author is trying to communicate
+ - Reader knows exactly what the author is trying to communicate
 * Evidence
-  No gaps in reasoning
+ - No gaps in reasoning
 * Counter-Evidence
-  No obvious gaps in reasoning
+ - No obvious gaps in reasoning
 * Sources
-  Source material
+ - Source material
 * Citations
-  Additional references
+ - Additional references
 * Organization
-  intro, main body, conclusion
+ - intro, main body, conclusion
 * Clarity and Style
-  Mostly grammatically correct
+ - Mostly grammatically correct
 * Length
-  At least meets the assignment requirements
+ - At least meets the assignment requirements
 * Formatting
-  Markdown and layout
+ - Markdown and layout
 
 > Derived from: https://www.cmu.edu/teaching/designteach/teach/rubrics.html
