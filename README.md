@@ -8,3 +8,4 @@
   - [Types of Testing](slides/types_of_testing.html)
 - Labs
   - [Quality](labs/quality_games.html)
+  - [Types of Testing Scenarios](types_of_testing_scenarios.html)
