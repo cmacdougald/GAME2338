@@ -7,6 +7,7 @@
   - [Version Control](slides/version_control.html)
   - [Types of Testing](slides/types_of_testing.html)
   - [Playtesting](slides/playtesting.html)
+  - [Test Cases](slides/test_cases.html)
 - Labs
   - [Quality](labs/quality_games.html)
   - [Types of Testing Scenarios](labs/types_of_testing_scenarios.html)
