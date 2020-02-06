@@ -18,9 +18,9 @@ You should be answering the who, what, when, where, why, and how of the game its
 
 ## Final Thoughts
 
-Describe in as much detail as possible what you did or didn't like about the game and list out your reasons why.
-Remember this is a review and thus should stand up to some critcism when making your reasons why you like or
-dislike particular features of the game. This should be at a minimum of one paragraph.
+Describe in as much detail as possible what you did and didn't enjoy about the game and list out your reasons why.
+Remember this is a review and thus should stand up to some critcism when making your reasons why you thought this
+way about particular features of the game. This should be at a minimum of 1 paragraph.
 
 ## Additional Information
 
