@@ -12,7 +12,7 @@ The genre and play style of the game.
 
 ### Platform
 
-What systems do they play on besides the PC master race?
+What systems does the game run on?
 
 ### Game Rating
 
@@ -28,11 +28,11 @@ Who made this pile of code?
 
 ### Publishing Date
 
-When did they make it?
+When was the game published?
 
 ## Synopsis
 
-Game premise or short one to two sentence overview.
+Game premise in paragraph form in your own words.
 
 ## Game Play Summary
 
@@ -48,4 +48,4 @@ What bugs happened during your critique.
 
 ## Final Thoughts
 
-One paragraph summary of your overall viewpoint of the game.
+One paragraph summary of your overall view of the game.
