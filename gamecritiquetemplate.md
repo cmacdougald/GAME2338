@@ -6,9 +6,9 @@
 
 Full title of the game.
 
-### Game Type
+### Game Genre
 
-The genre and play style of the game
+The genre and play style of the game.
 
 ### Platform
 
@@ -16,14 +16,15 @@ What systems do they play on besides the PC master race?
 
 ### Game Rating
 
-meta-critic score 
+meta-critic score
 
 ### Publisher
 
-who released this pile of code
+Who released this pile of code?
+
 ### Developer
 
-Who made this pile of code
+Who made this pile of code?
 
 ### Publishing Date
 
@@ -31,7 +32,7 @@ When did they make it?
 
 ## Synopsis
 
-Game premise or short one to two sentence overview
+Game premise or short one to two sentence overview.
 
 ## Game Play Summary
 
