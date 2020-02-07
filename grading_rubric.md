@@ -17,7 +17,7 @@ encompasses 10 points each.
   * You have a list of your source material.
 * Citations
   * Additional references as needed or required.
-* Organization 
+* Organization
   * Your writing includes an intro, main body, and conclusion.
 * Clarity and Style
   * Mostly grammatically correct
