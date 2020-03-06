@@ -1,3 +1,3 @@
 # Grading Rubric
 
-> Moved See <https://cmacdougald.github.io/handouts/grading_rubric.html>
+> Moved to <https://cmacdougald.github.io/handouts/grading_rubric.html>
