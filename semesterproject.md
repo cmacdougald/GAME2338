@@ -12,15 +12,15 @@ Develop a project schedule to include the following tasks at a minimum:
 
 | Deliverable | Start Date/End Date | Due Date | Person(s) Assigned |
 |-|-|-|-|
-| Game Selection | | 2020 03 03 | |
-| Develop Schedule | | 2020 03 10 | | 
-| Send Status Report 1 | | 2020 03 31 | |
-| Create Test Plan - First Draft | | 2020 04 07 | |
-| Send Status Report 2 | | 2020 04 28 | |
-| Create Test Cases - Draft | | 2020 04 09 | | 
-| Execute Test Cases | | 2020 04 28 | | 
-| Create Test Report | | 2020 05 05 | | 
-| Everything Due | | 2020 05 07 | | 
+| Game Selection | | 2020  | |
+| Develop Schedule | | 2020  | | 
+| Send Status Report 1 | | 2020  | |
+| Create Test Plan - First Draft | | 2020  | |
+| Send Status Report 2 | | 2020  | |
+| Create Test Cases - Draft | | 2020  | | 
+| Execute Test Cases | | 2020  | | 
+| Create Test Report | | 2020  | | 
+| Everything Due | | 2020  | | 
 
 # Part One: Game Selection
 
