@@ -40,7 +40,7 @@
 - Week 11
   - Bug Reports
 - Week 12
-  - Automation
+  - [Automation](slides/automation.html)
   - Selenium
   - CI/CD
 - Week 13
