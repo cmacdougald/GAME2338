@@ -10,7 +10,7 @@ _What company developed this test tool?_
 
 Company Name
 
-_Does this tool do any test case storage?_ 
+_Does this tool do any test case storage/recording?_ 
 
 Answer
 
@@ -37,7 +37,7 @@ _What company developed this test tool?_
 
 Company Name
 
-_Does this tool do any test case storage?_ 
+_Does this tool do any test case storage/recording?_ 
 
 Answer
 
@@ -64,7 +64,7 @@ _What company developed this test tool?_
 
 Company Name
 
-_Does this tool do any test case storage?_ 
+_Does this tool do any test case storage/recording?_ 
 
 Answer
 
