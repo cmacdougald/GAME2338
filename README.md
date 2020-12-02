@@ -49,9 +49,7 @@
   - Load, Performance, and Stress Testing
   - System, Integration and Other Testing
 - Week 14
-  - Smoke Testing
-  - Unit Testing
-  - Functional Testing
+  - [Smoke, Functional, & Unit Testing](slides/smokefunctionalunit_testing.html)
 - Week 15
   - [Review](https://cmacdougald.github.io/slides/test_review.html)
   - Test
