@@ -34,6 +34,8 @@ Who made this pile of code?
 
 When was the game published?
 
+- 2019
+
 ## Synopsis
 
 Game premise in paragraph form in your own words.
