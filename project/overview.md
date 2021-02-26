@@ -24,7 +24,7 @@ Develop a project schedule to include the following tasks at a minimum:
 
 # Part One: Game Selection
 
-Using a criteria determined by the team, pick a common game you will all play and test using methods taught in the course. Turn in a short paper describing the game and why your team choose this game. Recommendation is to use the game review template to start and modify accordingly.
+Using a criteria determined by the team, pick a common game you will all play and test using methods taught in the course. Turn in a short paper describing the game and why your team choose this game. Recommendation is to use the [game review template](/assignments/gamereviewtemplate.md) to start and modify accordingly.
 
 # Part Two: Test Plan
 
