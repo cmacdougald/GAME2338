@@ -46,7 +46,7 @@
     - https://www.redhat.com/en/topics/devops/what-is-ci-cd
     - https://www.mabl.com/blog/what-is-cicd
 - Week 13
-  - Load, Performance, and Stress Testing
+  - [Load, Performance, and Stress Testing](slides/loadperformancestress_testing.html)
   - System, Integration and Other Testing
 - Week 14
   - [Smoke, Functional, & Unit Testing](slides/smokefunctionalunit_testing.html)
