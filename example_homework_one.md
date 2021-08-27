@@ -46,7 +46,7 @@ Game premise in paragraph form in your own words.
 
 ## Bugs
 
-What bugs happened during your critique.
+- Another change to the file
 
 ## Final Thoughts
 
