@@ -8,7 +8,9 @@ Full title of the game.
 
 ### Game Genre
 
-The genre and play style of the game.
+* Adding a list of items
+* Adding more list items
+* Example list items
 
 ### Platform
 
