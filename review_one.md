@@ -29,4 +29,4 @@ paragraph.
 
 ## Additional Information
 
-Links to other reviews or other information you used in this review.
+* Additional review information.
