@@ -48,4 +48,4 @@
 
 * https://www.pcgamer.com/fallout-4-unofficial-patch-runs-into-a-bug-even-it-cannot-fix/
 * https://i.redd.it/wk0k1s4kyc241.jpg
-
+* https://www.youtube.com/watch?v=3TwjUk4ReZo (Map Size)
