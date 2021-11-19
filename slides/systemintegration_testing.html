@@ -35,6 +35,17 @@ class: center, middle
 > https://www.geeksforgeeks.org/difference-between-system-testing-and-integration-testing/
       
 ---
+      
+# Systems Testing
+      
+* Covers the following:
+  * Testing the fully integrated applications including external peripherals in order to check how components interact with one another and with the system as a whole. This is also called End to End testing scenario.
+  * Verify thorough testing of every input in the application to check for desired outputs.
+  * Testing of the user’s experience with the application. 
+
+> https://www.guru99.com/system-testing.html
+      
+---
 
 # Definitions
       
@@ -45,67 +56,54 @@ class: center, middle
 > https://www.geeksforgeeks.org/difference-between-system-testing-and-integration-testing/
 ---
 
-# Benefits
+# Integration Testing Types
 
-* uncovers problems early
-* increases confidence in changing / maintaining code
-* Codes is more reusable
-* Development is faster
-* cost of fixing a defect detected during testing is lesser in comparison to that of defects detected at higher levels
+* Big Bang Approach – Testing is done through coupling.
+* Bottom-Up Approach – Testing is done in the method of low to high levels.
+* Top-Down Approach – Testing is done from higher to lower levels.
+* Hybrid Approach – Bottom-Up and Top-Down Approaches are combined.
 
+> https://blog.flatworldsolutions.com/key-benefits-of-software-integration-testing/
 ---
 
-# Balance
+# Integration Testing Types
 
-* Usually depends on code coverage and level of quality requirements
-   
+* Big Bang Approach
+  * Convenient for small applications
+  * Easy detection of faulty bugs
+* Bottom-Up Approach
+  * Individual module development
+  * Errors are fixed at the same level and time
+  * Less consumption of time.
+* Top-Down Approach
+  * Errors are smoothly detected
+  * Crucial modules are first prioritized
+* Hybrid Approach
+  * Used to solve the complexities of huge and complicated software
+
+> https://blog.flatworldsolutions.com/key-benefits-of-software-integration-testing/   
 
 ---
-
-# Getting Started
-
-* Languag
-
----
-   
-# Scope
       
-* What a
+# Best Practices/ Guidelines for Integration Testing
 
-# Tool Selection
+* First, determine the Integration Test Strategy that could be adopted and later prepare the test cases and test data accordingly.
+* Study the Architecture design of the Application and identify the Critical Modules. These need to be tested on priority.
+* Obtain the interface designs from the Architectural team and create test cases to verify all of the interfaces in detail. Interface to database/external hardware/software application must be tested in detail.
+* After the test cases, it’s the test data which plays the critical role.
+* Always have the mock data prepared, prior to executing. Do not select test data while executing the test cases.
       
-* Ob
-      
----
-   
-# Planning, Designing, and Development
-
-* 
-      
----
-
-# Executing Test Cases and Build your reports
-
-* 
-
----
-
-# Assignment 
-
-* 
-
----
-
-# Tutorial
-
-* 
+> https://www.guru99.com/integration-testing.html
 
 ---
 
 # Resources
  
-* https://www.sitepoint.com/testing-functional-javascript/
-* https://docs.python-guide.org/writing/tests/
+> https://www.guru99.com/integration-testing.html
+> https://blog.flatworldsolutions.com/key-benefits-of-software-integration-testing/   
+> https://www.geeksforgeeks.org/difference-between-system-testing-and-integration-testing/
+> https://www.ibm.com/topics/software-testing
+
 
 .center[![Fewer Tests]()]
 
